@@ -1,4 +1,4 @@
-package vn.edu.giadinh;
+package com.namnd2008110152.lab2;
 import java.util.Scanner;
 public class Lab2Bai4 {
     private static int sodien;

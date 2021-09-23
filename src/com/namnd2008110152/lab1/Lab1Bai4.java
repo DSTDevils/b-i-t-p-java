@@ -1,4 +1,4 @@
-package vn.edu.giadinh;
+package com.namnd2008110152.lab1;
 import java.util.Scanner;
 import java.util.Scanner;
 public class Lab1Bai4 {
