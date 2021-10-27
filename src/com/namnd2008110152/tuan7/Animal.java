@@ -4,7 +4,7 @@
 */
 package com.namnd2008110152.tuan7;
 
-public class animal {
+public class Animal {
     private String sound;
     private String picture;
     private String food;
