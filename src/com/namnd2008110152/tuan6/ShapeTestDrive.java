@@ -4,7 +4,7 @@
 */
 package com.namnd2008110152.tuan6;
 
-public class shapeTestDrive {
+public class ShapeTestDrive {
     public static void main(String[] args){
         Circle circle = new Circle("gonna never get you up");
         circle.rotate();
